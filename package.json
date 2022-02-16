@@ -1,0 +1,19 @@
+{
+  "name": "js-challenge-refo44",
+  "version": "1.0.0",
+  "description": "A js code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refo44/js-challenge.git"
+  },
+  "author": "refo44@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/refo44/js-challenge#readme"
+}
